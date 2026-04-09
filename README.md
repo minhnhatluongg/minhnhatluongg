@@ -4,11 +4,11 @@
 
 **Backend Developer** · **.NET / C#** · **Clean Architecture**
 
-*Building scalable ERP systems at WinTech - Lot Việt*
+*Building scalable ERP systems at WinTech - Lạc Việt*
 
 [![Profile Views](https://komarev.com/ghpvc/?username=minhnhatluongg&color=0e75b6&style=flat-square&label=Profile+Views)](https://github.com/minhnhatluongg)
 [![Website](https://img.shields.io/badge/Portfolio-minhnhatluong.win--tech.vn-0e75b6?style=flat-square&logo=google-chrome&logoColor=white)](https://minhnhatluong.win-tech.vn)
-[![GitHub followers](https://img.shields.io/github/followers/minhnhatluongg?style=flat-square&color=0e75b6)](https://github.com/minhnhatluongg)
+[![GitHub followers](https://img.shields.io/github/followers/minhnhatluongg?style=flat-square&color=0e75b6&logo=github)](https://github.com/minhnhatluongg?tab=followers)
 
 </div>
 
@@ -51,7 +51,6 @@ var nhat = new Developer
 **Database**
 
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-Learning
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
@@ -76,14 +75,24 @@ Learning
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=minhnhatluongg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhnhatluongg&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+<a href="https://github.com/minhnhatluongg">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=minhnhatluongg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+</a>
+<a href="https://github.com/minhnhatluongg">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhnhatluongg&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&card_width=300" />
+</a>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=minhnhatluongg&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=minhnhatluongg&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=minhnhatluongg&theme=tokyonight&no-frame=true&column=6&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -93,33 +102,31 @@ Learning
 
 | Project | Description | Stack |
 |---|---|---|
-| [**E-LaptopShop**](https://github.com/minhnhatluongg/E-LaptopShop) | API Backend using Clean Architecture, CQRS & MediatR | `C#` `.NET` `CQRS` |
-| [**api-erp-reCode**](https://github.com/minhnhatluongg/api-erp-reCode) | ERP system API with Clean Architecture & Repository Pattern | `C#` `.NET` |
-| [**minhnhatluong-portfolio**](https://github.com/minhnhatluongg/minhnhatluong-portfolio) | Personal portfolio website | `JavaScript` |
+| [**E-LaptopShop**](https://github.com/minhnhatluongg/E-LaptopShop) | API Backend — Clean Architecture, CQRS & MediatR | `C#` `.NET` `CQRS` |
+| [**api-erp-reCode**](https://github.com/minhnhatluongg/api-erp-reCode) | ERP system API — Clean Architecture & Repository Pattern | `C#` `.NET` `EF Core` |
+| [**minhnhatluong-portfolio**](https://github.com/minhnhatluongg/minhnhatluong-portfolio) | Personal portfolio website | `JavaScript` `HTML` |
 | [**decapcha**](https://github.com/minhnhatluongg/decapcha) | Captcha solving utility | `Python` |
 
 ---
 
-## 📈 Activity
+## 📅 Contribution Graph
 
-<!--START_SECTION:activity-->
-🔭 Currently working on ERP modules at **WinTech - Lot Việt**
+<div align="center">
 
-🌱 Currently learning **Docker · Kubernetes · Redis · Kafka · RabbitMQ**
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=minhnhatluongg&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-💬 Ask me about **ASP.NET Core · CQRS · Clean Architecture · ERP Systems**
-
-📫 Reach me at **[minhnhatluong.win-tech.vn](https://minhnhatluong.win-tech.vn)**
-<!--END_SECTION:activity-->
+</div>
 
 ---
 
 ## 🤝 Connect With Me
 
 <div align="center">
-
-[![Website](https://img.shields.io/badge/🌐_Portfolio-Visit-0e75b6?style=for-the-badge)](https://minhnhatluong.win-tech.vn)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/minhnhatluongg)
+    
+[![Website](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-0e75b6?style=for-the-badge)](https://minhnhatluong.win-tech.vn)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github)](https://github.com/minhnhatluongg)
+[![Facebook](https://img.shields.io/badge/Facebook-Connect_Me-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/minhnhatluongne)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minhnhatluongwork@gmail.com?subject=[GitHub]%20Kết%20nối%20công%20việc)
 
 </div>
 
@@ -129,6 +136,8 @@ Learning
 
 *"Clean code always looks like it was written by someone who cares."*
 
-⭐ **If you find my work useful, consider giving a star!** ⭐
+**⭐ If you find my work useful, consider giving a star! ⭐**
+
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
 </div>
